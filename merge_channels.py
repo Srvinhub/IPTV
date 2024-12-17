@@ -1,8 +1,8 @@
 import requests
 
 # 源文件链接
-SOURCE_URL_IPV6_1 = "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
-SOURCE_URL_IPV6_2 = "https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
+SOURCE_URL_IPV6_1 = os.getenv("SOURCE_URL_IPV6_1")
+SOURCE_URL_IPV6_2 = os.getenv("SOURCE_URL_IPV6_2")
 
 # 输出文件
 OUTPUT_FILE = "live.m3u"
