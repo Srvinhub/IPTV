@@ -13,6 +13,9 @@ on:
 jobs:
   update_m3u:
     runs-on: ubuntu-latest
+    env:  # 这里引用 GitHub Secrets
+      SOURCE_URL_IPV6_1: ${{ secrets.SOURCE_URL_IPV6_1 }}
+      SOURCE_URL_IPV6_2: ${{ secrets.SOURCE_URL_IPV6_2 }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
