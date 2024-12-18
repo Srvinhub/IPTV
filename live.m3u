@@ -298,6 +298,8 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="凤凰香港" group-title="港台频道",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="凤凰电影" group-title="港台频道",凤凰电影
+http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="香港卫视" group-title="港台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="亚洲卫视" tvg-logo="亚洲卫视" group-title="港台频道",亚洲卫视
@@ -380,10 +382,12 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="纬来日本" group-title="港台频道",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="纬来体育" group-title="港台频道",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐" group-title="港台频道",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="纬来体育" group-title="港台频道",纬来体育
-https://v4-23c02b34c3dbe65d9d98d5a86ddb7980.livehwc3.cn/hls.yjjcfw.com/live/vl.m3u8?sub_m3u8=true&hwTime=6753166A&user_session_id=c6cb6696de3a9f9d4ac217b68f1d0542&hwSecret=c71871a7360776c49083da21cb32033902b1a077018266f24106a16997ebba6a&edge_slice=true
+#EXTINF:-1 tvg-name="纬来精采" tvg-logo="纬来精采" group-title="港台频道",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="大爱1台" tvg-logo="大爱1台" group-title="港台频道",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" tvg-logo="大爱2台" group-title="港台频道",大爱2台
@@ -407,7 +411,7 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="数位电影" tvg-logo="数位电影" group-title="港台频道",数位电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="龙华电影" group-title="港台频道",龙华电影
-http://litv.zapi.us.kg/?id=litv-longturn03
+https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="靖天电影" group-title="港台频道",靖天电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv061
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="鳳凰中文" group-title="港台电视",鳳凰中文
@@ -600,10 +604,18 @@ http://huanqiuzhibo.cn/manifest/huya.php?id=26355864
 http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-name="新三国" tvg-logo="新三国" group-title="电视轮播",新三国
 http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
+#EXTINF:-1 tvg-name="新三国（备用）" tvg-logo="新三国（备用）" group-title="电视轮播",新三国（备用）
+http://live.metshop.top/huya/11352944
 #EXTINF:-1 tvg-name="新水浒传" tvg-logo="新水浒传" group-title="电视轮播",新水浒传
 http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="三国演义" group-title="电视轮播",三国演义
+http://live.metshop.top/huya/11602081
+#EXTINF:-1 tvg-name="三国演义（备用）" tvg-logo="三国演义（备用）" group-title="电视轮播",三国演义（备用）
+http://lunbo.freetv.top/yy/1354930932
 #EXTINF:-1 tvg-name="少年包青天第一部" tvg-logo="少年包青天第一部" group-title="电视轮播",少年包青天第一部
 http://jiaojirentv.top/2020/yy.php?id=1356043677
+#EXTINF:-1 tvg-name="少年包青天（备用）" tvg-logo="少年包青天（备用）" group-title="电视轮播",少年包青天（备用）
+http://lunbo.freetv.top/yy/1356043677
 #EXTINF:-1 tvg-name="少年包青天第三部" tvg-logo="少年包青天第三部" group-title="电视轮播",少年包青天第三部
 http://jiaojirentv.top/2020/yy.php?id=1382736814
 #EXTINF:-1 tvg-name="神探狄仁杰第一部" tvg-logo="神探狄仁杰第一部" group-title="电视轮播",神探狄仁杰第一部
