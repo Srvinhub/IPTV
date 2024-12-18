@@ -2,7 +2,7 @@ name: Auto Update IPTV M3U
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  # 每8小时执行一次
+    - cron: "0 */4 * * *"
   workflow_dispatch:  # 支持手动触发
     inputs:
       run: 
